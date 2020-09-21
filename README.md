@@ -1,1 +1,1 @@
-# alauda-blue-red
+# update-blue-red
